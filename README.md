@@ -44,7 +44,7 @@ Launch Platform: Pump.fun
 
 Ticker: NOKS
 
-Contract Address:
+Contract Address:PFsDZFEMKoGMc9A5gj9S1Zvtpqg21AZ1w2PWMLTpump
 
 (TBD)
 
