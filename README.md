@@ -82,7 +82,7 @@ GitHub:
 Insert repository link
 
 Pump.fun:
-Insert token link
+https://pump.fun/coin/PFsDZFEMKoGMc9A5gj9S1Zvtpqg21AZ1w2PWMLTpump
 
 ---
 
