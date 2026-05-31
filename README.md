@@ -76,7 +76,7 @@ Contract Address:PFsDZFEMKoGMc9A5gj9S1Zvtpqg21AZ1w2PWMLTpump
 # Community
 
 X (Twitter):
-Insert your profile link
+https://x.com/NKings3708
 
 GitHub:
 Insert repository link
